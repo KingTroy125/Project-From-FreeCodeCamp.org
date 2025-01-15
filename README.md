@@ -17,23 +17,18 @@ Here are the five projects required to complete the certification:
 
 1. **Mean-Variance-Standard Deviation Calculator**
    - A Python script that calculates the mean, variance, and standard deviation of a 3x3 matrix.
-   - [Project Code](./mean_variance_standard_deviation_calculator.py)
 
 2. **Demographic Data Analyzer**
    - An analysis of demographic data from a CSV file to calculate statistics about the population.
-   - [Project Code](./demographic_data_analyzer.py)
 
 3. **Medical Data Visualizer**
    - A visualization project analyzing medical examination data using bar plots, categorical plots, and heatmaps.
-   - [Project Code](./medical_data_visualizer.py)
 
 4. **Page View Time Series Visualizer**
    - Visualization of time series data from FreeCodeCamp forums, creating line charts, bar charts, and box plots.
-   - [Project Code](./time_series_visualizer.py)
 
 5. **Sea Level Predictor**
    - A project that predicts sea level rise using historical data and linear regression.
-   - [Project Code](./sea_level_predictor.py)
 
 ## Installation
 
